@@ -13,4 +13,9 @@ wget https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmwar
 
 # ubuntu20.04 desktop
 wget https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-desktop-amd64.iso
-# 
+# ultimate bootcd
+wget ftp://ftp.rnl.tecnico.ulisboa.pt/pub/UBCD/ubcd539.iso
+# system rescue
+wget https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/8.05/systemrescue-8.05-amd64.iso/download
+ 
+
