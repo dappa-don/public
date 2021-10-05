@@ -7,7 +7,7 @@ wget https://www.hirensbootcd.org/files/HBCD_PE_x64.iso
 wget https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-dvd/firmware-11.0.0-amd64-DVD-1.iso
 # debian 11 cinnamon live
 wget https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current-live/amd64/iso-hybrid/debian-live-11.0.0-amd64-cinnamon+nonfree.iso
-# 
+# debian 11 kde plasma
 https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current-live/amd64/iso-hybrid/debian-live-11.0.0-amd64-kde+nonfree.iso
 # debian net
 https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-11.0.0-amd64-netinst.iso
